@@ -1,6 +1,6 @@
 ---
 layout: default
-title:
+title: 提出用3Dプリンタデータの仕様・注意事項
 nav_order: 4
 ---
 
