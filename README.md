@@ -4,5 +4,4 @@ title: readme
 nav_exclude: true
 ---
 
-このドキュメントは、GitHub Pagesにて公開する目的で作成されました。
-テーマとして、Patrick Marsceill氏の作成した[Just the Docs](https://pmarsceill.github.io/just-the-docs/)を利用しています。
+レクチャーシリーズ『TOPPING』へようこそ。この『Sculpting by Digital』では、画面の中の空間に、思い描いた立体形状を作るための手法を学んでいきます。角ばった形や　滑らかな形、つくりたいものによって使う道具が変わるように、適したソフトウェアも切り替えつつ彫刻を行っていきましょう。
